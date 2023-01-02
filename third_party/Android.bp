@@ -1,12 +1,3 @@
-package {
-    // See: http://go/android-license-faq
-    // A large-scale-change added 'default_applicable_licenses' to import
-    // all of the 'license_kinds' from "external_libese_license"
-    // to get the below license kinds:
-    //   SPDX-license-identifier-Apache-2.0
-    default_applicable_licenses: ["external_libese_license"],
-}
-
-subdirs = [
-    "NXPNFC_P61_JCOP_Kit"
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:77059cb2f3fbcf699e2288a0ba1d3fb07946c5b024f9b847afb1c427fdb7979c
+size 379
